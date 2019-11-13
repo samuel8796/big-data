@@ -34,4 +34,5 @@ https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_wor
 tensorflow 2.0 
 
 https://www.tensorflow.org/api_docs/python/tf
+
 https://www.itread01.com/content/1563621603.html
