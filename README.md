@@ -24,3 +24,6 @@ repo for big data project
 ........|- drawresult.py
 
 ........|-readme.md 
+
+
+https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html
