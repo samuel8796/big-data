@@ -26,4 +26,9 @@ repo for big data project
 ........|-readme.md 
 
 
+RNN & latm
 https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html
+
+
+tensorflow 2.0 
+https://www.tensorflow.org/api_docs/python/tf
