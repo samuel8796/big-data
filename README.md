@@ -3,7 +3,7 @@ repo for big data project
 
 # project framework
 |= root >  
-........|= dataPreProcess 
+........|= dataPreProcess
 ................|- __init__.py  
 ................|- config.py  
 ................|- dataIO.py  
