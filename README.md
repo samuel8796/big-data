@@ -26,7 +26,7 @@ repo for big data project
 ........|-readme.md 
 
 
-RNN & latm
+RNN & lstm
 https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_rnns_lstm_work.html
 
 
