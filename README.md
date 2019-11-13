@@ -41,4 +41,3 @@ https://iter01.com/176418.html
 
 
 
-http://moodle.nccu.edu.tw/pluginfile.php/672842/mod_resource/content/1/bigdata19f-proj.pdf
