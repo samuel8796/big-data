@@ -20,7 +20,7 @@ X_train, Y_train = shuffle(X_train, Y_train,10)
 X_train, Y_train, X_val, Y_val = splitData(X_train, Y_train, 0.7)
 #create validation data set (X,Y,ratio)
 
-model = buildManyToManyModel(X_train.shape)
+model = buildModel(X_train.shape)
 callback = [tf.keras.callbacks.EarlyStopping(monitor="loss", patience=10, verbose=1, mode="auto")]
 
 model.fit(X_train, Y_train, epochs=1000, batch_size=128,callbacks=callback)
