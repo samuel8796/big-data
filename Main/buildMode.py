@@ -3,7 +3,7 @@ from tensorflow import keras
 from keras.optimizers import Adam
 
 
-def buildManyToManyModel(shape):
+def buildModel(shape):
     model = tf.keras.Sequential()
     model.add(layers.LSTM(17, input_length=shape[1], input_dim=shape[2]))
   # output shape: (5, 1)
