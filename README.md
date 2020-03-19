@@ -7,7 +7,7 @@ repo for big data project
 ---def load_row_dataset   
 ---def missing_value  
 ---def normalize  
----def buildTrain 
+---def buildTrain   
 ---def shuffle  
 ---def splitData  
 ---def buildModel 
