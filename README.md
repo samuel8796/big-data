@@ -1,6 +1,8 @@
 # big data
 repo for big data project
 
+在"main" 和 "data preproce" 中，是這次專案的測試程式，將每個函式都確定清楚，而“lstmtest”則是第一版完整程式碼，在繪製圖俵上遇到了困難，
+
 # project framework
 
 # ref
