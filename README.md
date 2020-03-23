@@ -18,7 +18,7 @@ repo for big data project
 
 數據的洗亂及切分，因為真正做最後訓練時資料集量足夠後來並未使用。  
 
-
+![model performance](/)
 
 # ref
 
